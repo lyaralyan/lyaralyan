@@ -1,4 +1,4 @@
-# Hi, I'm Levon Yaralyan 👋 exactly
+# Hi, I'm Levon Yaralyan 👋
 
 I am a passionate developer with over **4 years** of experience in web and mobile development, specializing in React Native, React, and other modern technologies. I enjoy building efficient, scalable applications and continuously learning to stay at the forefront of the industry.
 
