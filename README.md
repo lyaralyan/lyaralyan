@@ -30,3 +30,8 @@ I am a passionate developer with over **4 years** of experience in web and mobil
 ## 🌍 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Levon%20Yaralyan-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/levon-yaralyan/)
+
+<a href="https://www.linkedin.com/in/levon-yaralyan/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Levon%20Yaralyan-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn Levon Yaralyan">
+</a>
+
