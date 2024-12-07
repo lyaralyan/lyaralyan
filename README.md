@@ -31,10 +31,13 @@ I am a passionate developer with over **4 years** of experience in web and mobil
 
 ![Levon's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lyaralyan&include_all_commits=true&show_icons=true&theme=radical)
 ![Levon's GitHub Streak](https://streak-stats.demolab.com/?user=lyaralyan&theme=radical)
+
+## Most Used Languages
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lyaralyan&layout=compact&theme=radical)
 
 ## 🌍 Connect with Me
 
 <a href="https://www.linkedin.com/in/levon-yaralyan/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-Levon%20Yaralyan-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn Levon Yaralyan">
-</a>Ï
+</a>
