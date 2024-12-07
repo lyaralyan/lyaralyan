@@ -25,16 +25,7 @@ I am a passionate developer with over **4 years** of experience in web and mobil
   
 ## 📈 GitHub Stats
 
-# Welcome to Levon's GitHub 👋
-
-## 📊 GitHub Stats
-![Levon's GitHub Stats](https://github-readme-stats.vercel.app/api?username=levonyaralyan&show_icons=true&theme=radical)
-
-## 🔝 Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=levonyaralyan&layout=compact&theme=radical)
-
-## 📌 Pinned Repositories
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=levonyaralyan&repo=repository-name&theme=radical)
+![Levon's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
 
 ## 🌍 Connect with Me
 
