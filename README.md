@@ -30,7 +30,6 @@ I am a passionate developer with over **4 years** of experience in web and mobil
 ## 📈 GitHub Stats
 
 ![Levon's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lyaralyan&include_all_commits=true&show_icons=true&theme=radical)
-
 ![Levon's GitHub Streak](https://streak-stats.demolab.com/?user=lyaralyan&theme=radical)
 
 ## 🌍 Connect with Me
