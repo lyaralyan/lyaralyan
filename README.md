@@ -22,7 +22,7 @@
 
 <ul>
   <li>🌟 <strong>4+ years</strong> of working experience.</li>
-  <li>🔧 I work with <strong>React</strong>, <strong>React Native</strong>, <strong>HTML</strong>, <strong>CSS</strong>, <strong>JavaScript</strong>, <strong>TypeScript</strong>, and <strong>Git</strong>.</li>
+  <li>🔧 I work with <strong>React</strong>, <strong>React Native</strong>, <strong>Node JS</strong>, <strong>HTML</strong>, <strong>CSS</strong>, <strong>JavaScript</strong>, <strong>TypeScript</strong>, and <strong>Git</strong>.</li>
   <li>📱 Building mobile apps using <strong>React Native</strong> and web applications using <strong>React</strong>.</li>
   <li>💡 Keen on mastering <strong>Linux</strong> and <strong>Unix</strong> environments for smooth development workflows.</li>
 </ul>
