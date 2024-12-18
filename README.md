@@ -1,6 +1,6 @@
 # Hi, I'm Levon Yaralyan 👋
 
-I am a passionate developer with over **4 years** of experience in web and mobile development, specializing in React Native, React, and other modern technologies. I enjoy building efficient, scalable applications and continuously learning to stay at the forefront of the industry.
+“Experienced developer with 4+ years in web, mobile, and backend development, specializing in React Native, React, and Node.js. Adept at creating scalable, efficient, and user-focused applications. Committed to staying ahead in the industry by continuously learning and applying modern technologies to deliver exceptional solutions.”
 
 ## 🛠 Tech Stack
 
@@ -21,7 +21,7 @@ I am a passionate developer with over **4 years** of experience in web and mobil
 ## 👨‍💻 About Me
 
 <ul>
-  <li>🌟 <strong>4 years</strong> of working experience.</li>
+  <li>🌟 <strong>4+ years</strong> of working experience.</li>
   <li>🔧 I work with <strong>React</strong>, <strong>React Native</strong>, <strong>HTML</strong>, <strong>CSS</strong>, <strong>JavaScript</strong>, <strong>TypeScript</strong>, and <strong>Git</strong>.</li>
   <li>📱 Building mobile apps using <strong>React Native</strong> and web applications using <strong>React</strong>.</li>
   <li>💡 Keen on mastering <strong>Linux</strong> and <strong>Unix</strong> environments for smooth development workflows.</li>
